@@ -1,2 +1,4 @@
 # aoc_2018
-Advent of Code 2018 Challenge - Javascript
+My javascript solutions for the Advent of Code 2018 project. 
+
+adventofcode.com
